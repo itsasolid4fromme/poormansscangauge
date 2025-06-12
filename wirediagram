@@ -1,0 +1,19 @@
+OLED Display (I2C):
+
+    VCC → 5 V
+    GND → GND
+    SDA → A4
+    SCL → A5
+
+MAP Sensor (4-pin):
+
+    Pin 1 GND → GND
+    Pin 2 +5V → 5 V
+    Pin 3 IAT Signal → A1
+    Pin 4 Boost Signal → A0
+
+Oil Pressure Sensor:
+
+    VCC → 5 V
+    GND → GND
+    Signal → A2
